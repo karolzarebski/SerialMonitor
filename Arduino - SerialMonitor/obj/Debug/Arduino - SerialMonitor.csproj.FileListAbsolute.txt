@@ -1,0 +1,28 @@
+C:\Users\Karol\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\bin\Debug\Arduino - SerialMonitor.exe.config
+C:\Users\Karol\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\bin\Debug\Arduino - SerialMonitor.exe
+C:\Users\Karol\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\bin\Debug\Arduino - SerialMonitor.pdb
+C:\Users\Karol\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\Arduino - SerialMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Karol\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\Karol\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\App.g.cs
+C:\Users\Karol\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\Arduino - SerialMonitor_MarkupCompile.cache
+C:\Users\Karol\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\Arduino - SerialMonitor_MarkupCompile.lref
+C:\Users\Karol\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\MainWindow.baml
+C:\Users\Karol\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\Arduino - SerialMonitor.g.resources
+C:\Users\Karol\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\Arduino___SerialMonitor.Properties.Resources.resources
+C:\Users\Karol\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\Arduino - SerialMonitor.csproj.GenerateResource.Cache
+C:\Users\Karol\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\Arduino - SerialMonitor.exe
+C:\Users\Karol\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\Arduino - SerialMonitor.pdb
+D:\Pierdoły\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\bin\Debug\Arduino - SerialMonitor.exe.config
+D:\Pierdoły\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\bin\Debug\Arduino - SerialMonitor.exe
+D:\Pierdoły\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\bin\Debug\Arduino - SerialMonitor.pdb
+D:\Pierdoły\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\Arduino - SerialMonitor.csprojResolveAssemblyReference.cache
+D:\Pierdoły\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\MainWindow.g.cs
+D:\Pierdoły\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\App.g.cs
+D:\Pierdoły\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\Arduino - SerialMonitor_MarkupCompile.cache
+D:\Pierdoły\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\Arduino - SerialMonitor_MarkupCompile.lref
+D:\Pierdoły\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\MainWindow.baml
+D:\Pierdoły\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\Arduino - SerialMonitor.g.resources
+D:\Pierdoły\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\Arduino___SerialMonitor.Properties.Resources.resources
+D:\Pierdoły\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\Arduino - SerialMonitor.csproj.GenerateResource.Cache
+D:\Pierdoły\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\Arduino - SerialMonitor.exe
+D:\Pierdoły\OneDrive\Informatyka\C#\WPF_WFA\WPF\Arduino - SerialMonitor\Arduino - SerialMonitor\obj\Debug\Arduino - SerialMonitor.pdb
